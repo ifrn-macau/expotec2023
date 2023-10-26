@@ -57,4 +57,5 @@ plugins:
 
 header_pages:
   - sobre.md
+  - chamadas.md
   - propostas.md
