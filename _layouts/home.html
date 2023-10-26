@@ -9,15 +9,11 @@ layout: default
 
   {{ content }}
 
-  <h1>Aviso</h1>
   
-  <p> Irei disponibilizar as atualizações progressivamente, e convido vocês a conferirem as mesmas neste endereço.</p>
-
-  <p>Além disso, estou em processo de customização e inserção dos formulários para o envio dos trabalhos.</p>
 
   <p style="color: palevioletred;"> Atenciosamente, <br>Prof André Luiz A. Sousa</p>
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Últimas Notícias   " }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Notícias   " }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
