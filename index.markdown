@@ -19,6 +19,7 @@ layout: home
     display:flex;
     justify-content:space-around;
     
+    
 }
 .org-col{
     display:flex;
@@ -97,22 +98,30 @@ Lembre-se de substituir "[Inserir Data]", "[Inserir Local]" e "[inserir link do 
 </div>
 
 </div>
+
+
 <div class="org-row">
 <div class="org-col">
-<p></p>
+<div style="width:163px; height:235px; background-color:gray; border:1px solid black"> </div>
+<p>Leandro Linspector</p>
 </div>
 <div class="org-col">
-<p></p>
+<div style="width:163px; height:235px; background-color:gray; border:1px solid black"> </div>
+<p>outro</p>
 </div>
+
 <div class="org-col">
-<p></p>
+<div style="width:163px; height:235px; background-color:gray; border:1px solid black"> </div>
+<p>outro</p>
 </div>
 
 </div>
 
-
-
 </div>
+
+
+
+
 
 
 
