@@ -20,15 +20,13 @@
 
 title: Expotec 2023
 email: expotec2023.mc.ifrn@gmail.com
+title: Expotec 2023
 description: >- # this means to ignore newlines until "baseurl:"
-  Estamos trabalhando para trazer a você informações atualizadas sobre a Expotec 2023. Em breve,
-   nosso site estará pronto para fornecer detalhes sobre o evento. Agradecemos sua paciência 
-   e aguarde por mais novidades em breve."
+ ®  2023 Expotec. Todos os direitos reservados. Desenvolvido por André Luiz A. Sousa, Professor Substituto de Sistemas de Informação do IFRN Campus Macau
 
 baseurl: "/expotec2023" # the subpath of your site, e.g. /blog
 url: "https://ifrn-macau.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+instagram_username: ifrn.macau
 
 # Build settings
 theme: minima
