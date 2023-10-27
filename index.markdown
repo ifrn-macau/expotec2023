@@ -11,9 +11,27 @@ layout: home
     
 }
 
+.organizadores{
+    display:flex;
+    flex-direction:column;
+}
+.org-row{
+    display:flex;
+    justify-content:space-around;
+    
+}
+.org-col{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    
+    
+}
+
+
 </style>
 <div class="div-principal-1">
-<img src="./images/logo_expotec2.png" >
+<img src="./images/logo_expotec2.png" class="org-img">
   </div>
 
 # Apresentação da Expotec 2023
@@ -61,7 +79,40 @@ Para obter mais informações e inscrições, visite [o site oficial da Expotec 
 Estamos ansiosos para vê-lo na Expotec 2023, onde o futuro da tecnologia é moldado!
 Lembre-se de substituir "[Inserir Data]", "[Inserir Local]" e "[inserir link do site]" pelas informações reais sobre a data, local e link do site oficial da Expotec 2023. Esse texto de apresentação em formato Markdown pode ser usado em seu site, blog ou em qualquer plataforma que suporte a formatação Markdown.
 
+# Organização
 
+<div class="organizadores">
+<div class="org-row">
+<div class="org-col">
+<img src="./images/organizadores/andre.jpeg">
+<p>André Sousa</p>
+</div>
+<div class="org-col">
+<img src="./images/organizadores/pv.jpg">
+<p>Paulo Victor</p>
+</div>
+<div class="org-col">
+<img src="./images/organizadores/yuri.jpg">
+<p>Yuri Marcedo</p>
+</div>
+
+</div>
+<div class="org-row">
+<div class="org-col">
+<p></p>
+</div>
+<div class="org-col">
+<p></p>
+</div>
+<div class="org-col">
+<p></p>
+</div>
+
+</div>
+
+
+
+</div>
 
 
 
