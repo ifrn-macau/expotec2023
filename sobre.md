@@ -4,22 +4,11 @@ title: Sobre
 permalink: /sobre/
 ---
 
-# Meu Formulário
+## Sobre o Evento
 
-<form id="meu-formulario">
-    <label for="nome">Nome:</label>
-    <input type="text" id="nome" name="nome" required>
-    <br>
-    <label for="email">E-mail:</label>
-    <input type="email" id="email" name="email" required>
-    <br>
-    <button type="submit">Enviar</button>
-</form>
+A Expotec é uma oportunidade incomparável para:
 
-<style>
-    /* Estilos CSS aqui */
-</style>
-
-<script>
-    // JavaScript aqui
-</script>
+- Conectar-se com especialistas do setor.
+- Participar de palestras e workshops envolventes.
+- Explorar novas tecnologias e produtos em exposições interativas.
+- Compartilhar conhecimentos e experiências com colegas.
