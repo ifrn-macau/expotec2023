@@ -32,10 +32,12 @@ layout: home
 
 
 </style>
-<div class="div-principal-1">
-<img src="./images/logo_expotec2.png" class="org-img">
-  </div>
 
+<div class="div-principal-1">
+    <img src="./images/logo_expotec2.png" class="org-img">
+    </div>
+      
+      
 # Apresentação da Expotec 2023
 
 Bem-vindo à Expotec 2023, o evento de tecnologia do ano que reúne mentes brilhantes, inovação e conhecimento de ponta! A Expotec é um encontro anual que oferece uma plataforma única para profissionais, estudantes e entusiastas da tecnologia explorarem as tendências mais recentes e discutirem o futuro do setor.
@@ -90,15 +92,15 @@ Lembre-se de substituir "[Inserir Data]", "[Inserir Local]" e "[inserir link do 
 <div class="organizadores">
 <div class="org-row">
 <div class="org-col">
-<img src="./images/organizadores/andre.jpeg">
-<p>André Sousa</p>
+<img src="./images/organizadores/leandro.jpeg">
+<p><strong>Leandro Lispector</strong><br>Presidente</p>
+</div>
+<div class="org-col">
+<img src="./images/organizadores/julio.jpeg">
+<p><strong>Júlio Cesar</strong><br>Vice-Presidente </p>
 </div>
 <div class="org-col">
 <img src="./images/organizadores/pv.jpg">
-<p>Paulo Victor</p>
-</div>
-<div class="org-col">
-<img src="./images/organizadores/yuri.jpg">
 <p>Yuri Marcedo</p>
 </div>
 
@@ -107,8 +109,8 @@ Lembre-se de substituir "[Inserir Data]", "[Inserir Local]" e "[inserir link do 
 
 <div class="org-row">
 <div class="org-col">
-<div style="width:163px; height:235px; background-color:gray; border:1px solid black"> </div>
-<p>Leandro Linspector</p>
+<img src="./images/organizadores/yuri.jpg">
+<p>Yuri Marcedo</p>
 </div>
 <div class="org-col">
 <div style="width:163px; height:235px; background-color:gray; border:1px solid black"> </div>
