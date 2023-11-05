@@ -6,16 +6,16 @@ permalink: /propostas/
 
 ### Prazos:
 
-**Período:** 28/10 a 18/11
+**Período:** 01/11 a 20/11
 
 
 ### Orientações gerais:
 
 - As palestras devem ter duração de 45 a 50 minutos.
 
-- Os minicursos e oficinas devem ter duração de no mínimo 2 e no máximo 6 horas, sempre múltiplo de 2 (ex: 2, 4 ou 6 horas).
+- Os minicursos e oficinas devem ter duração de no mínimo 2 e no máximo 6h, sempre múltiplo de 2 (ex: 2, 4 ou 6h).
 
-- As salas temáticas podem ser realizadas de 1 a 4 dias.
+- As salas temáticas podem ser realizadas 1, 2, 3 ou 4 dias.
 
 ### Preencha as informações abaixo para submeter uma proposta de atividade
 

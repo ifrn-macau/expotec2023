@@ -54,7 +54,8 @@ plugins:
 #   - vendor/ruby/
 
 header_pages:
-  - sobre.md
   - chamadas.md
   - propostas.md
+  - concurso.md
   - programacao.md
+  
