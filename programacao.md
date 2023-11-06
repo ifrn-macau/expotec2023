@@ -5,15 +5,23 @@ permalink: /programacao/
 ---
 
 
-# Programação Geral
+# Segunda-feira (04/12/2023)
 
-- programação 1
-- Programação 2
+<img src="./../images/programacao/geral-segunda.png">
 
+# Terça-feira (05/12/2023)
 
-# Terça-Feira 27/10/2023
+<img src="./../images/programacao/geral-terca.png">
 
- <style>
+# Quarta-feira (06/12/2023)
+
+<img src="./../images/programacao/geral-quarta.png">
+
+# Quinta-feira (07/12/2023)
+
+<img src="./../images/programacao/geral-quinta.png">
+
+<!-- <style>
             .expansivel {
             height: 50px; /* Defina a altura inicial da div */
         overflow: hidden; /* Esconda o conteúdo extra */
@@ -263,7 +271,10 @@ permalink: /programacao/
   }
 }
       </script>
+-->
 
+
+ 
 
 <!--<img src="./../images/em-construcao.png">-->
 
