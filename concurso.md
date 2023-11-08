@@ -19,7 +19,7 @@ Contamos com as seguintes categorias de inscrição:
  **Faça o download das normas do concurso clicando** <a href="https://drive.google.com/uc?export=download&id=1qsVGXriVEaGYPiTC9sRLKPYggj1XetlM">aqui</a><br>
 
 # Datas importantes
-- Inscriçõe de 6 a 20/11/2023
+- Inscriçõe de 09 a 22/11/2023
 - Divulgação das inscrições homologadas  27/11/2023	
 - Resultado e Premiação  07/12/2023
 

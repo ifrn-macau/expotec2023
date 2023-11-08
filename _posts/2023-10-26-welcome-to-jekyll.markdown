@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Boas-vindas à expotec 2023!"
+title:  "Inscrições abertas"
 date:   2023-10-26 07:48:47 -0300
 categories: jekyll update
 ---

@@ -16,9 +16,9 @@ permalink: /chamadas/
 
 
 # Datas importantes
-**Submissão de trabalho:** 06/11 a 20/11
+**Submissão de trabalho:** 09/11 a 22/11
 
-**Avaliação:** 21 a 26/11
+**Avaliação:** 20 a 26/11
 
 **Resultado:** 27/11
 

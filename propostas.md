@@ -4,9 +4,14 @@ title: Proposta de atividade
 permalink: /propostas/
 ---
 
-### Prazos:
+### Datas importantes:
 
-**Período:** 01/11 a 20/11
+**Submissão:** 09/11 a 22/11
+
+**Avaliação:** 20/11 a 26/11
+
+
+**Resultado:** 27/11 
 
 
 ### Orientações gerais:
