@@ -170,7 +170,7 @@ layout: home
 
 
 
-Bem-vindo ao evento de tecnologia que reúne mentes brilhantes, inovação e conhecimento multidiciplinares! 
+Bem-vindo ao evento de ciência, tecnologia e cultura (EXPOTEC) que reúne mentes brilhantes, inovação e conhecimentos multidiciplinares! 
 
 É com imensa satisfação que o IFRN – campus Macau convida toda comunidade acadêmica e da região da Costa Branca Potiguar para participar da nossa IX EXPOTEC. Esse ano de 2023, no período de 4 a 7 de dezembro, nos reuniremos em torno do tema “As tecnologias das ciências e das artes na região da Costa Branca”, com o propósito de refletirmos, de discutirmos e debatermos as contribuições do ensino, da pesquisa e da extensão produzidos em nossa casa de educação para as possibilidades de transformação frente aos desafios de ontem e  do hoje.
 
@@ -186,7 +186,7 @@ A Expotec é uma oportunidade para:
 - Participar de palestras, salas temáticas, minicursos, oficinas e atividades propostas.
 - Explorar novas tecnologias e conhecimentos com a abordagem multidisciplinar.
 - Compartilhar e construir conhecimentos e experiências com profissionais das mais diversas áreas.
-- Divulgação e socialização do conhecimento científico.
+- Divulgar, socialização do conhecimento científico.
 
 
 <div class="slideshow-container">
@@ -306,8 +306,8 @@ A participação na IX EXPOTEC é aberta a comunidade externa e interna. Para se
 </div>
 
 <div class="org-col">
-<div style="width:163px; height:235px; background-color:gray; border:1px solid black"> </div>
-<p>outro</p>
+<img src="./images/organizadores/carla.jpg">
+<p><strong>Carla Virgínia</strong><br>(Organizador)</p>
 </div>
 
 </div>
