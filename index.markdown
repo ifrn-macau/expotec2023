@@ -165,7 +165,8 @@ layout: home
     <img src="./images/logo_expotec2.png" class="org-img">
     </div>
       
-      
+# Inscreva-se!
+**Link de Inscrição:** <a href="https://suap.ifrn.edu.br/eventos/inscricao/5347/  ">https://suap.ifrn.edu.br/eventos/inscricao/5347/  </a>  
 # Apresentação da Expotec 2023
 
 
@@ -247,6 +248,7 @@ Este ano, a Expotec 2023 se concentrará em uma variedade eixos de temáticos:
 - As tecnologias das ciências e das artes na formação docente: metodologias ativas, pesquisa e inovação na licenciatura.
 - A jornada da tecnologia e o mundo criativo da informática: da conectividade à inovação.
 - A Química das Interações na Costa Branca Potiguar: Unindo Elementos para a Sustentabilidade.
+- O Curso Técnico em Recursos Pesqueiros na Região da Costa Branca Potiguar: um motor da Revolução Azul e Economia do Mar
 - As contribuições da especialização em ensino de ciências naturais e matemática para a Região da Costa branca potiguar.
 
 Junte-se a nós na Expotec 2023 para uma jornada fascinante pelo mundo da tecnologia. Este é o local onde ideias se transformam em inovação, e onde você pode fazer parte dessa transformação.
@@ -256,11 +258,11 @@ Junte-se a nós na Expotec 2023 para uma jornada fascinante pelo mundo da tecnol
 
 A participação na IX EXPOTEC é aberta a comunidade externa e interna. Para se juntar a nós, siga estas etapas simples:
 
-1. Inscreva-se no site  SUAP [COLOCAR LINK].
+1. Inscreva-se no site: <a href="https://suap.ifrn.edu.br/eventos/inscricao/5347/">https://suap.ifrn.edu.br/eventos/inscricao/5347/</a>
 2. Escolha a sua forma de participação.
-- Submeta seu trabalho aqui
-- Submeta sua proposta de atividade aqui
-- Inscreva-se para o concurso aqui
+- Submeta seu trabalho <a href="./chamadas">aqui</a>
+- Submeta sua proposta de atividade <a href="./propostas">aqui</a>
+- Inscreva-se para o concurso <a href="./concurso">aqui</a>
 3. Aproveite essa experiência imersiva.
 
 
