@@ -187,7 +187,7 @@ A Expotec é uma oportunidade para:
 - Participar de palestras, salas temáticas, minicursos, oficinas e atividades propostas.
 - Explorar novas tecnologias e conhecimentos com a abordagem multidisciplinar.
 - Compartilhar e construir conhecimentos e experiências com profissionais das mais diversas áreas.
-- Divulgar, socialização do conhecimento científico.
+- Divulgar e socializar o conhecimento científico.
 
 
 <div class="slideshow-container">
