@@ -269,7 +269,7 @@ A participação na IX EXPOTEC é aberta a comunidade externa e interna. Para se
 
 # Data e Local
 
-- **Data**: de 4 a 7 de setembro
+- **Data**: De 4 a 7 de Dezembro
 - **Local**: IFRN -  Campus Macau
 
 
