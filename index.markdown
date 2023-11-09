@@ -263,7 +263,8 @@ A participação na IX EXPOTEC é aberta a comunidade externa e interna. Para se
 - Submeta seu trabalho <a href="./chamadas">aqui</a>
 - Submeta sua proposta de atividade <a href="./propostas">aqui</a>
 - Inscreva-se para o concurso <a href="./concurso">aqui</a>
-3. Aproveite essa experiência imersiva.
+3. Aguarde o resultado dos trabalhos aprovados na data 27/11/2023
+4. Aproveite essa experiência imersiva do evento!
 
 
 # Data e Local
