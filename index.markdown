@@ -7,6 +7,28 @@ layout: home
 
 
 <style>
+
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
    .slideshow-container {
     
     width: 90%;
@@ -281,7 +303,7 @@ A participação na IX EXPOTEC é aberta a comunidade externa e interna. Para se
 
 # Organização
 
-<div class="organizadores">
+<div class="organizadores" style="height:585px; overflow:auto">
 <div class="org-row">
 <div class="org-col">
 <img src="./images/organizadores/leandro.jpeg">
@@ -312,6 +334,83 @@ A participação na IX EXPOTEC é aberta a comunidade externa e interna. Para se
 <img src="./images/organizadores/carla.jpg">
 <p><strong>Carla Virgínia</strong><br>(Organizador)</p>
 </div>
+
+</div>
+
+<div class="org-row">
+<div class="org-col">
+<img src="./images/organizadores/rosynara.jpg">
+<p><strong>Rosynara Veras</strong><br>(Organizador)</p>
+</div>
+<div class="org-col">
+<img src="./images/organizadores/italo.jpg">
+<p><strong>Ítalo Nelson</strong><br>(Organizador)</p>
+</div>
+
+<div class="org-col">
+<img src="./images/organizadores/janaina.jpg">
+<p><strong>Janaína Maria</strong><br>(Organizador)</p>
+</div>
+</div>
+
+<div class="org-row">
+<div class="org-col">
+<img src="./images/organizadores/veska.jpg">
+<p><strong>Valeska Morais</strong><br>(Organizador)</p>
+</div>
+<div class="org-col">
+<img src="./images/organizadores/karla.jpg">
+<p><strong>Karla Candido</strong><br>(Organizador)</p>
+</div>
+
+<div class="org-col">
+<img src="./images/organizadores/luciana.jpg">
+<p><strong>Luciana Mendes</strong><br>(Organizador)</p>
+</div>
+</div>
+
+<div class="org-row">
+<div class="org-col">
+<img src="./images/organizadores/jefferson.jpg">
+<p><strong>Jefferson Martins</strong><br>(Organizador)</p>
+</div>
+<div class="org-col">
+<img src="./images/organizadores/victor.jpg">
+<p><strong>Victor Augusto</strong><br>(Organizador)</p>
+</div>
+
+<div class="org-col">
+<img src="./images/organizadores/alanderson.jpg">
+<p><strong>Alanderson Maxson</strong><br>(Organizador)</p>
+</div>
+</div>
+
+<div class="org-row">
+<div class="org-col">
+<img src="./images/organizadores/mauricio.jpg">
+<p><strong>Maurício Tavares</strong><br>(Organizador)</p>
+</div>
+<div class="org-col">
+<img src="./images/organizadores/pabloinf.jpg">
+<p><strong>João Pablo</strong><br>(Organizador)</p>
+</div>
+
+<div class="org-col">
+<img src="./images/organizadores/pablo.jpg">
+<p><strong>Pablo Gurgel</strong><br>(Organizador)</p>
+</div>
+</div>
+
+<div class="org-row">
+<div class="org-col">
+<img src="./images/organizadores/roberto.jpg">
+<p><strong>Roberto Carvalho</strong><br>(Organizador)</p>
+</div>
+<div class="org-col">
+<img src="./images/organizadores/wenne.jpg">
+<p><strong>Wenne Madson</strong><br>(Organizador)</p>
+</div>
+
 
 </div>
 
