@@ -372,7 +372,7 @@ A participação na IX EXPOTEC é aberta a comunidade externa e interna. Para se
 <div class="org-row">
 <div class="org-col">
 <img src="./images/organizadores/jefferson.jpg">
-<p><strong>Jefferson Martins</strong><br>(Organizador)</p>
+<p><strong>Jefferson Matias</strong><br>(Organizador)</p>
 </div>
 <div class="org-col">
 <img src="./images/organizadores/victor.jpg">
