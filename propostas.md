@@ -6,7 +6,7 @@ permalink: /propostas/
 
 ### Datas importantes:
 
-**Submissão:** 09/11 a 22/11
+**Submissão:** 09/11 a 25/11
 
 **Avaliação:** 20/11 a 26/11
 
