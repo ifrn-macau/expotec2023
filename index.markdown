@@ -186,7 +186,12 @@ layout: home
 <div class="div-principal-1">
     <img src="./images/logo_expotec2.png" class="org-img">
     </div>
-      
+
+
+
+# Campanha Solidária
+<img src="./images/campanha-solidaria.jpeg">
+
 # Inscreva-se!
 **Link de Inscrição:** <a href="https://suap.ifrn.edu.br/eventos/inscricao/5347/  ">https://suap.ifrn.edu.br/eventos/inscricao/5347/  </a>  
 # Apresentação da Expotec 2023
