@@ -13,7 +13,7 @@ As apresentações dos trabalhos aprovados na modalidade poster, ocorrerão no d
 # Modalidade comunicação oral
 <a href="https://drive.google.com/file/d/1J9mhlXtyy67Gx8zfUAfHuXsxK6nFO4Jg/view?usp=sharing">Lista dos trabalhos aprovados em modalidade comunicação oral</a>
 
-As apresentações dos trabalhos aprovados na modalidade de Comunicação Oral, ocorrerão no dia 06 de dezembro (quarta-feira), em horário e sala a definir (divulgaremos os horários das sessões no site da EXPOTEC, dia 27/11, segunda-feira). Os trabalhos aprovados estão listados na lista de trabalhos aprovados (comunicação oral).
+As apresentações dos trabalhos aprovados na modalidade de Comunicação Oral, ocorrerão no dia 06 de dezembro (quarta-feira), em horário e sala a definir (divulgaremos os horários das sessões no site da EXPOTEC, dia 29/11, quarta-feira). Os trabalhos aprovados estão listados na lista de trabalhos aprovados (comunicação oral).
 <div style="border:2px solid black"></div>
 # Links úteis
 
