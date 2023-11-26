@@ -187,7 +187,9 @@ layout: home
     <img src="./images/logo_expotec2.png" class="org-img">
     </div>
 
+# Resultado da chamada para trabalhos
 
+**Confira a lista de trabalhos aprovados** <a href="./chamadas"> aqui</a>
 
 # Campanha Solidária
 <img src="./images/campanha-solidaria.jpeg">

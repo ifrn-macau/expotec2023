@@ -3,7 +3,18 @@ layout: page
 title: Chamada para trabalho
 permalink: /chamadas/
 ---
+## Resultado
 
+# Modalidade pôster
+<a href="https://drive.google.com/file/d/1FZGmRu95a9u-YRSd0eLkU23tSUoGvWgT/view?usp=drive_link">Lista dos trabalhos aprovados em modalidade pôster</a>
+
+As apresentações dos trabalhos aprovados na modalidade poster, ocorrerão no dia 05 de dezembro, das 13h30min às 17h30min, no Centro de Convivência do IFRN/Campus Macau. Recomendamos a chegada dos autores apresentadores com meia hora de antecedência (ou seja, 13h), para fixação do poster no espaço predeterminado. O espaço predeterminado para cada poster será identificado pelo código de identificação (ID #), conforme divulgada na lista de trabalhos aprovados.
+
+# Modalidade comunicação oral
+<a href="https://drive.google.com/file/d/1J9mhlXtyy67Gx8zfUAfHuXsxK6nFO4Jg/view?usp=sharing">Lista dos trabalhos aprovados em modalidade comunicação oral</a>
+
+As apresentações dos trabalhos aprovados na modalidade de Comunicação Oral, ocorrerão no dia 06 de dezembro (quarta-feira), em horário e sala a definir (divulgaremos os horários das sessões no site da EXPOTEC, dia 27/11, segunda-feira). Os trabalhos aprovados estão listados na lista de trabalhos aprovados (comunicação oral).
+<div style="border:2px solid black"></div>
 # Links úteis
 
 **Download do regulamento da submissão e apresentação de trabalhos** <a href="https://drive.google.com/uc?export=download&id=1AJr9N_S4H6DAynBq4KJ7YlYyRGAF5NFQ">aqui</a><br>
