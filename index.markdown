@@ -186,6 +186,10 @@ layout: home
 <div class="div-principal-1">
     <img src="./images/logo_expotec2.png" class="org-img">
     </div>
+    
+# Resultado da avaliação das atividades propostas
+
+**Confira a lista de propostas aprovadas** <a href="./propostas"> aqui</a>
 
 # Resultado da chamada para trabalhos
 

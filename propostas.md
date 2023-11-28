@@ -3,6 +3,11 @@ layout: page
 title: Proposta de atividade
 permalink: /propostas/
 ---
+## Resultado
+
+<a href="https://drive.google.com/file/d/1wzHdDa8DIb70rUvKliDD4EvKfCQN8wGA/view?usp=sharing">Lista das propostas de atividade aprovadas</a>
+
+Os dias e horários das atividades propostas aprovadas, serão divulgadas no site da EXPOTEC, dia 28/11 (terça-feira), com a divulgação da programação final do evento. As atividades aprovadas estão listadas na lista de atividades propostas aprovadas.
 
 ### Datas importantes:
 
