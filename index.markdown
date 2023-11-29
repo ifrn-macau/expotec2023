@@ -186,19 +186,20 @@ layout: home
 <div class="div-principal-1">
     <img src="./images/logo_expotec2.png" class="org-img">
     </div>
-    
-# Resultado da avaliação das atividades propostas
+
+# Destaques   
+## Resultado da avaliação das atividades propostas
 
 **Confira a lista de propostas aprovadas** <a href="./propostas"> aqui</a>
 
-# Resultado da chamada para trabalhos
+## Resultado da chamada para trabalhos
 
 **Confira a lista de trabalhos aprovados** <a href="./chamadas"> aqui</a>
 
-# Campanha Solidária
+## Campanha Solidária
 <img src="./images/campanha-solidaria.jpeg">
 
-# Inscreva-se!
+## Inscreva-se!
 **Link de Inscrição:** <a href="https://suap.ifrn.edu.br/eventos/inscricao/5347/  ">https://suap.ifrn.edu.br/eventos/inscricao/5347/  </a>  
 # Apresentação da Expotec 2023
 
