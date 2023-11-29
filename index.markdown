@@ -333,8 +333,8 @@ A participação na IX EXPOTEC é aberta a comunidade externa e interna. Para se
 
 <div class="org-row">
 <div class="org-col">
-<img src="./images/organizadores/yuri.jpg">
-<p><strong>Yuri Macedo</strong><br>(Organizador)</p>
+<img src="./images/organizadores/rejane.jpg">
+<p><strong>Rejane Gomes</strong><br>(Organizador)</p>
 </div>
 <div class="org-col">
 <img src="./images/organizadores/jerd.jpg">
@@ -422,6 +422,10 @@ A participação na IX EXPOTEC é aberta a comunidade externa e interna. Para se
 <p><strong>Wenne Madson</strong><br>(Organizador)</p>
 </div>
 
+<div class="org-col">
+<img src="./images/organizadores/yuri.jpg">
+<p><strong>Yuri Macedo</strong><br>(Organizador)</p>
+</div>
 
 </div>
 
