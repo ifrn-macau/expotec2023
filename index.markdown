@@ -188,6 +188,8 @@ layout: home
     </div>
 
 # Destaques   
+
+
 ## Resultado da avaliação das atividades propostas
 
 **Confira a lista de propostas aprovadas** <a href="./propostas"> aqui</a>
@@ -196,11 +198,16 @@ layout: home
 
 **Confira a lista de trabalhos aprovados** <a href="./chamadas"> aqui</a>
 
+## Palestrante convidada
+<img src="./images/rosario-carvalho.jpeg">
 ## Campanha Solidária
 <img src="./images/campanha-solidaria.jpeg">
 
 ## Inscreva-se!
 **Link de Inscrição:** <a href="https://suap.ifrn.edu.br/eventos/inscricao/5347/  ">https://suap.ifrn.edu.br/eventos/inscricao/5347/  </a>  
+
+
+
 # Apresentação da Expotec 2023
 
 
@@ -271,7 +278,6 @@ A Expotec é uma oportunidade para:
             <span class="dot" onclick="currentSlide(5)"></span>
             <span class="dot" onclick="currentSlide(6)"></span>
         </div>
-
 
 
 
