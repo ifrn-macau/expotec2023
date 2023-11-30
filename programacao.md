@@ -3,8 +3,7 @@ layout: page
 title: Programação
 permalink: /programacao/
 ---
-
-# Programação geral
+# Programação Detalhada
 
 <a href="https://drive.google.com/file/d/1RHCx6sYX_IlOKk8m52TyrM7nTkdAcyK3/view?usp=sharing">Programação geral</a>
 
@@ -12,6 +11,7 @@ permalink: /programacao/
 
 <a href="https://drive.google.com/file/d/1r0WEGfexGPRgTB80i7UauPMUJ4abdwyN/view?usp=sharing">Programação pôster</a>
 
+## Programação Geral
 # Segunda-feira (04/12/2023)
 
 <img src="./../images/programacao/geral-segunda.png">
