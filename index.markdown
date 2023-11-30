@@ -189,6 +189,10 @@ layout: home
 
 # Destaques   
 
+## Divulgada a progrmação detalhada.
+
+**Confira a programação detalhada:**<a href="./programacao"> aqui</a>
+
 
 ## Resultado da avaliação das atividades propostas
 
