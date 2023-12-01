@@ -51,6 +51,8 @@ permalink: /concurso/
 
 <p>As propostas que estão com o campo "Inovadora" sinalizados com "NÃO", poderão apresentar seus trabalhos  na categoria de "apresentação oral"</p>
 
+<p>Qualquer dúvida enviar email para <b>expotec2023.mc.ifrn@gmail.com</b>, com o título "Concurso de ideias"</p>
+
 **Download do modelo de apresentação em slides** <a href="https://drive.google.com/uc?export=download&id=1GJn8DzZo_Q3Hg836osWBDvfA78xF2f4o">aqui</a><br>
 
 
