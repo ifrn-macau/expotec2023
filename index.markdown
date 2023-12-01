@@ -189,7 +189,7 @@ layout: home
 
 # Destaques   
 
-## Divulgada a progrmação detalhada.
+## Divulgada a programação detalhada.
 
 **Confira a programação detalhada:**<a href="./programacao"> aqui</a>
 

@@ -24,7 +24,7 @@ permalink: /concurso/
         <td>Extensão</td>
         <td>SIM</td>
     </tr>
-    <tr style="background-color:yellow">
+    <tr >
         <td>Promover o esporte para a comunidade da Coahb no IFRN - MC.</td>
         <td>Extensão</td>
         <td>NÃO</td>
@@ -39,7 +39,7 @@ permalink: /concurso/
         <td>Pesquisa</td>
         <td>SIM</td>
     </tr>
-    <tr style="background-color:yellow">
+    <tr >
         <td>Produção de carvão ativado a partir da algaroba</td>
         <td>Extensão</td>
         <td>NÃO</td>
