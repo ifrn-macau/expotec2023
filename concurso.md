@@ -47,9 +47,9 @@ permalink: /concurso/
   
 </table>
 
-<p>As propostas que estão com o campo "Inovadora" sinalizados com "SIM" foram aprovados e deverão apresentar as suas ideias no dia e horário informados aqui nesta página. O dia e horário pode sofrer alterações. Portanto, fiquem atentos. </p>
+<p>As propostas que estão com o campo "Inovadora" sinalizados com "SIM" foram aprovados e deverão ser apresentadas no dia e horário informados aqui nesta página. O dia e horário pode sofrer alterações. Portanto, fiquem atentos. </p>
 
-<p>As propostas que estão com o campo "Inovadora" sinalizados com "NÃO", poderão apresentar seus trabalhos  na categoria de "apresentação oral"</p>
+<p>As propostas que estão com o campo "Inovadora" sinalizados com "NÃO" poderão apresentar seus trabalhos  na categoria de "apresentação oral"</p>
 
 <p>Qualquer dúvida enviar email para <b>expotec2023.mc.ifrn@gmail.com</b>, com o título "Concurso de ideias"</p>
 
