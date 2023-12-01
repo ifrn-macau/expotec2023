@@ -193,9 +193,9 @@ layout: home
 
 **Confira a programação detalhada:**<a href="./programacao"> aqui</a>
 
-## Divulgado o resultado do concurso de ideias.
+## Divulgado o resultado do concurso Oficina de Ideias.
 
-**Confira o resultado do concurso:**<a href="./concurso"> aqui</a>
+**Confira o resultado do concurso Oficina de Ideias:**<a href="./concurso"> aqui</a>
 
 ## Resultado da avaliação das atividades propostas
 
