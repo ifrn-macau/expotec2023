@@ -4,6 +4,61 @@ title: Concurso
 permalink: /concurso/
 ---
 
+# Resultado da avaliação das propostas
+
+
+
+<table border="1">
+    <tr>
+        <th>Nome da Proposta</th>
+        <th>Área</th>
+        <th>Inovadora</th>
+    </tr>
+    <tr>
+        <td>Participação parental no desenvolvimento escolar do estudante.</td>
+        <td>Extensão</td>
+        <td>SIM</td>
+    </tr>
+    <tr>
+        <td>Descarte dos efluentes da piscicultura da Unidade Industrial-Escola do IFRN - MC.</td>
+        <td>Extensão</td>
+        <td>SIM</td>
+    </tr>
+    <tr style="background-color:yellow">
+        <td>Promover o esporte para a comunidade da Coahb no IFRN - MC.</td>
+        <td>Extensão</td>
+        <td>NÃO</td>
+    </tr>
+    <tr>
+        <td>Microplásticos no mar: Uma possibilidade de minimizá-los na aquicultura.</td>
+        <td>Pesquisa</td>
+        <td>SIM</td>
+    </tr>
+    <tr>
+        <td>Mitigar o uso de combustíveis fósseis para a produção de combustível através da utilização de microalgas.</td>
+        <td>Pesquisa</td>
+        <td>SIM</td>
+    </tr>
+    <tr style="background-color:yellow">
+        <td>Produção de carvão ativado a partir da algaroba</td>
+        <td>Extensão</td>
+        <td>NÃO</td>
+    </tr>
+  
+</table>
+
+<p>As propostas que estão com o campo "Inovadora" sinalizados com "SIM" foram aprovados e deverão apresentar as suas ideias no dia e horário informados aqui nesta página. O dia e horário pode sofrer alterações. Portanto, fiquem atentos. </p>
+
+<p>As propostas que estão com o campo "Inovadora" sinalizados com "NÃO", poderão apresentar seus trabalhos  na categoria de "apresentação oral"</p>
+
+**Download do modelo de apresentação em slides** <a href="https://drive.google.com/uc?export=download&id=1GJn8DzZo_Q3Hg836osWBDvfA78xF2f4o">aqui</a><br>
+
+
+<h4>Data e Hora do Concurso: </h4>
+Dia 05/12/2023 (Terça-feira) das 20h00 às 20h50.
+<h4>Local: </h4>
+Auditório do Campus IFRN-MACAU
+
 
 # Concurso Oficina de Ideias
 
