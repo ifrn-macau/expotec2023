@@ -79,6 +79,7 @@ Contamos com as seguintes categorias de inscrição:
 - Inscriçõe de 09 a 25/11/2023
 - Divulgação das inscrições homologadas  30/11/2023	
 - Resultado e Premiação  07/12/2023
+- Apresentação das ideias 05/12/2023 
 
 
 # Formulário para inscrição
