@@ -195,7 +195,7 @@ layout: home
 
 ## Divulgado o resultado do concurso de ideias.
 
-**Confira a programação detalhada:**<a href="./concurso"> aqui</a>
+**Confira o resultado do concurso:**<a href="./concurso"> aqui</a>
 
 ## Resultado da avaliação das atividades propostas
 
