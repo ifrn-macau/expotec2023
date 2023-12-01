@@ -5,11 +5,15 @@ permalink: /programacao/
 ---
 # Programação Detalhada
 
-<a href="https://drive.google.com/file/d/1RHCx6sYX_IlOKk8m52TyrM7nTkdAcyK3/view?usp=sharing">Programação geral</a>
+<a href="https://drive.google.com/file/d/1EMllMNXTLM0IoycipkUtYuKsTRSajYQv/view?usp=sharing">Programação geral</a>
+
+# Programação apresentação oral
+
+<a href="https://drive.google.com/file/d/1j9UluBnDBdfnXZ1BYknXq6CWfTKHaRqG/view?usp=sharing">Programação apresentação oral</a>
 
 # Programação pôster TERÇA
 
-<a href="https://drive.google.com/file/d/1r0WEGfexGPRgTB80i7UauPMUJ4abdwyN/view?usp=sharing">Programação pôster</a>
+<a href="https://drive.google.com/file/d/1Y6p18sxGbUPpJdC3U3CCUjeKPl0QhQDy/view?usp=sharing">Programação pôster</a>
 
 ## Programação Geral
 # Segunda-feira (04/12/2023)
