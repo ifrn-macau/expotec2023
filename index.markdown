@@ -191,7 +191,7 @@ layout: home
 
 ## Divulgada a programação detalhada.
 
-**Confira a programação detalhada:**<a href="./programacao"> aqui</a>
+**Confira a programação detalhada:**<a href="./programacao"> aqui</a> 
 
 ## Divulgado o resultado do concurso Oficina de Ideias.
 
