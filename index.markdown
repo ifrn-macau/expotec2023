@@ -205,8 +205,20 @@ layout: home
 
 **Confira a lista de trabalhos aprovados** <a href="./chamadas"> aqui</a>
 
+## 1ª Mostra de pesquisas da PGECNM
+
+<img src="./images/pgecnm.jpg">
+
+## Palestrante convidada 
+
+<img src="./images/helen-dutra.jpeg">
+
+
 ## Palestrante convidada
-<img src="./images/rosario-carvalho.jpeg">
+<img src="./images/hellen-dutra2.jpeg">
+
+## Palestrante convidada
+<img src="./images/rosario-carvalho2.jpeg">
 ## Campanha Solidária
 <img src="./images/campanha-solidaria.jpeg">
 
@@ -445,7 +457,39 @@ A participação na IX EXPOTEC é aberta a comunidade externa e interna. Para se
 
 </div>
 
+# Patrocinadores
 
+<div class="organizadores">
+
+<div class="org-row">
+<div class="org-col">
+<img src="./images/patrocinadores/3R.jpeg">
+
+</div>
+<div class="org-col">
+<img src="./images/patrocinadores/celcel.jpg">
+
+</div>
+<div class="org-col">
+<img src="./images/patrocinadores/celso-henrique.jpg">
+</div>
+
+</div>
+
+<div class="org-row" style="margin-top:20px">
+<div class="org-col">
+<img src="./images/patrocinadores/duporto.jpg">
+
+</div>
+<div class="org-col">
+<img src="./images/patrocinadores/cabral.jpg">
+
+</div>
+
+
+</div>
+
+</div>
 
 
 <script type="text/javascript">
