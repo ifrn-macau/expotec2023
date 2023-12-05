@@ -193,6 +193,7 @@ layout: home
 
 **Confira a programação detalhada:**<a href="./programacao"> aqui</a> 
 
+
 ## Divulgado o resultado do concurso Oficina de Ideias.
 
 **Confira o resultado do concurso Oficina de Ideias:**<a href="./concurso"> aqui</a>
@@ -205,6 +206,9 @@ layout: home
 
 **Confira a lista de trabalhos aprovados** <a href="./chamadas"> aqui</a>
 
+
+## Natal Solidário
+<img src="./images/natalsolidario.jpg">
 ## 1ª Mostra de pesquisas da PGECNM
 
 <img src="./images/pgecnm.jpg">
@@ -483,9 +487,11 @@ A participação na IX EXPOTEC é aberta a comunidade externa e interna. Para se
 </div>
 <div class="org-col">
 <img src="./images/patrocinadores/cabral.jpg">
-
 </div>
 
+<div class="org-col">
+<img src="./images/patrocinadores/ebc.jpg">
+</div>
 
 </div>
 
