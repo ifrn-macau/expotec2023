@@ -192,7 +192,7 @@ layout: home
 
 A comissão geral  da Expotec - 2023 informa aos participantes que realizaram a inscrição na forma presencial ( assinando a lista no dia do evento) para preencher o formulário a fim de receber seu certificado geral.
 Segue o formulário via link aberto até o dia 15 de janeiro:
-<a href="">https://forms.gle/KHRw3QLvU9igrP3M9</a>
+<a href="https://forms.gle/KHRw3QLvU9igrP3M9">https://forms.gle/KHRw3QLvU9igrP3M9</a>
 
 
 ## Divulgada a programação detalhada.
