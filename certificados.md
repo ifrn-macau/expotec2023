@@ -61,29 +61,12 @@ permalink: /certificados/
         <div class="conteudo-expansivel">
             
 <div class="detalhes">
-                <h4 >Descrição: 2</h4>
+                <h4 >AS TECNOLOGIAS NECESSARIAS PARA O MERCADO DE TRABALHO</h4>
+                  <p><a href="https://drive.google.com/drive/folders/1xcD24YuLVhZOlpCpweZAsF11HwAwppCW?usp=sharing" target="_blank">Link dos certificados</a></p>
+                  <h4 >Descrição: 2</h4>
                   <p>uma descrição aqui 2</p>
               </div>
-              <div class="detalhes">
-                  <h4>titulo:</h4>
-                  
-<p>uma descrição aqui</p>
-              </div>
-    
-<div class="detalhes">
-                  <h4>Tipo:</h4>
-                  <p>uma descrição aqui</p>
-              </div>
-      
-<div class="detalhes">
-                  <h4>Local:</h4>
-                              <p>uma descrição aqui</p>
-              </div>
-              <div class="detalhes">
-                  <h4>Data e Hora:</h4>
-                                  <p>uma descrição aqui</p>
-              </div>
-                    
+              
                         
 </div>
 </div>
