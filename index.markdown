@@ -187,7 +187,13 @@ layout: home
     <img src="./images/logo_expotec2.png" class="org-img">
     </div>
 
-# Destaques   
+# Destaques 
+
+## Disponibilizados os certificados para download
+
+Acesse: <a href="certificados">Certificados</a>
+
+
 ## Comunicado
 
 A comissão geral  da Expotec - 2023 informa aos participantes que realizaram a inscrição na forma presencial ( assinando a lista no dia do evento) para preencher o formulário a fim de receber seu certificado geral.
