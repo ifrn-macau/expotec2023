@@ -63,8 +63,8 @@ permalink: /certificados/
 <div class="detalhes">
                 <h4 >AS TECNOLOGIAS NECESSARIAS PARA O MERCADO DE TRABALHO</h4>
                   <p><a href="https://drive.google.com/drive/folders/1xcD24YuLVhZOlpCpweZAsF11HwAwppCW?usp=sharing" target="_blank">Link dos certificados</a></p>
-                  <h4 >Descrição: 2</h4>
-                  <p>uma descrição aqui 2</p>
+                  <h4 >LETRAMENTO RACIAL</h4>
+                  <p><a href="https://drive.google.com/drive/folders/11QDUg3rOOxIFQq0ucAuPB5RHFnUvS9pL?usp=sharing" target="_blank">Link dos certificados</a></p>
               </div>
               
                         
