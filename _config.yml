@@ -54,6 +54,7 @@ plugins:
 #   - vendor/ruby/
 
 header_pages:
+  - certificados.md
   - chamadas.md
   - propostas.md
   - concurso.md
