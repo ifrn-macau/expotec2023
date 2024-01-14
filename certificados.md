@@ -138,6 +138,20 @@ permalink: /certificados/
 </div>
       </div>
 
+  <!--Posters -->
+<div class="expansivel" id="div-terca-6" onclick="expandirDiv('div-terca-6')">
+        <h4 class="titulo-conteudo">Palestrantes e demais ações</h4>
+        <div class="conteudo-expansivel">
+            <div class="detalhes">
+          <h4>CERTIFICADOS DE PALESTRANTES E ORGANIZADOS DE OUTRAS AÇÕES</h4>
+            <p><a href="https://drive.google.com/drive/folders/1kY8WWdRMC27H2GhYYZeXXCixRbska04y?usp=sharing" target="_blank">Link dos certificados</a></p>
+            
+ </div>
+        
+                                                   
+</div>
+      </div>
+
 
 
 
